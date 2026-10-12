@@ -1,0 +1,1 @@
+We are a building a 21 card game app as C# console app, see the assignment pdf for details.
